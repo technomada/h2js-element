@@ -1,0 +1,27 @@
+{
+  "name": "h2js-element",
+  "version": "1.0.2",
+  "description": "Lightweight web element (shadow dom / custom element) wrapper class.",
+  "main": "element-class.js",
+  "directories": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "keywords": [
+    "browser",
+    "framework",
+    "web app",
+    "webapp",
+    "custom elements",
+    "shadow dom",
+    "lightweight",
+    "light weight",
+    "vanilla"  ],
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/technomada/h2js-element"
+  },
+  "author": "Adam",
+  "license": "MIT"
+}

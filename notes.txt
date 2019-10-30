@@ -1,0 +1,1 @@
+how/should to make this lib work without npm?
