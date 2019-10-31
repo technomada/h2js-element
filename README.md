@@ -1,4 +1,4 @@
-# HSJS Element Class
+# H2JS Element Class
 
 A simple javascript class for creating self contained, reusable, ui elements.
 
@@ -12,9 +12,9 @@ A simple javascript class for creating self contained, reusable, ui elements.
 
 -------------------
 ### Usage
-
+```sh
 $ npm i -S h2js-element
-
+```
 
 index.html
 ```js
