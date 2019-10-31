@@ -11,7 +11,7 @@ A simple javascript class for creating self contained, reusable, ui elements.
 
 
 -------------------
-### Usage
+### Basic Usage
 ```sh
 $ npm i -S h2js-element
 ```

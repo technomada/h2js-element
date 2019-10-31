@@ -1,1 +1,3 @@
+upg: add advanced usage example and docs.. like attach/detach.
+upg: include ref to h2js-engine
 how/should to make this lib work without npm?
