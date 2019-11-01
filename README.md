@@ -40,7 +40,7 @@ class ClockElement extends ElementClass{
 	
 		let C = `
 			<style>
-				.item {color: ${faceColor};}
+				.display {color: ${faceColor};}
 			</style>
 			<div class='display'></div>
 			`
