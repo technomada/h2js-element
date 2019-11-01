@@ -1,6 +1,6 @@
 {
   "name": "h2js-element",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Lightweight web element (shadow dom / custom element) wrapper class.",
   "main": "element-class.js",
   "directories": {
